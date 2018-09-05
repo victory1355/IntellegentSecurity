@@ -18,4 +18,7 @@
 ### 系统运行效果如下
 
 
-![](https://github.com/victory1355/LOG_4_Embedded-Software-Development/blob/master/ic.png)
+![](https://https://github.com/victory1355/IntellegentSecurity/blob/master/show/demo1.JPG)
+![](https://https://github.com/victory1355/IntellegentSecurity/blob/master/show/demo2.JPG)
+![](https://https://github.com/victory1355/IntellegentSecurity/blob/master/show/demo3.JPG)
+![](https://https://github.com/victory1355/IntellegentSecurity/blob/master/show/demo4.JPG)
